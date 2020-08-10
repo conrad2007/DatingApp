@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http'
 import { AppComponent } from './app.component';
 import { ValueComponent } from './value/value.component';
+import { NgxDatatableModule } from '@swimlane/ngx-datatable';
 
 @NgModule({
   declarations: [
@@ -11,7 +12,8 @@ import { ValueComponent } from './value/value.component';
   ],
   imports: [
     BrowserModule,
-    HttpClientModule
+    HttpClientModule,
+    NgxDatatableModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,0 +1,17 @@
+npm install -g @angular/cli
+
+ng new DatingApp-SPA
+
+npm install bootstrap font-awesome
+
+git status
+
+git init
+
+git remote add origin https://github.com/conrad2007/DatingApp.git
+
+git push -u origin master
+
+dotnet tool install --global dotnet-ef
+
+dotnet ef database update

@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "jY2px7JqSYmzxbxO6wkl7MJtiGYCZZbfgBbY+U1WqzoWrFwB/dN+LMM0/yBfcLIOGzQT/6mROMl7b/etM0ZMKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\conra\\DatingApp\\DatingApp-SPA\\DatingApp-SPA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.6\\microsoft.aspnetcore.nodeservices.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.6\\microsoft.aspnetcore.spaservices.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\3.1.6\\microsoft.aspnetcore.spaservices.extensions.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\microsoft.extensions.configuration.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\microsoft.extensions.configuration.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\microsoft.extensions.configuration.binder.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.6\\microsoft.extensions.fileproviders.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.6\\microsoft.extensions.fileproviders.physical.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.6\\microsoft.extensions.filesystemglobbing.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\microsoft.extensions.logging.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.6\\microsoft.extensions.logging.configuration.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.6\\microsoft.extensions.logging.console.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.6\\microsoft.extensions.options.configurationextensions.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\conra\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
