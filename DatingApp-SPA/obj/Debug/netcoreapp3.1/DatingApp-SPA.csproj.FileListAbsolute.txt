@@ -49,3 +49,4 @@ C:\Users\conra\DatingApp\DatingApp-SPA\obj\Debug\netcoreapp3.1\staticwebassets\D
 C:\Users\conra\DatingApp\DatingApp-SPA\obj\Debug\netcoreapp3.1\DatingApp-SPA.dll
 C:\Users\conra\DatingApp\DatingApp-SPA\obj\Debug\netcoreapp3.1\DatingApp-SPA.pdb
 C:\Users\conra\DatingApp\DatingApp-SPA\obj\Debug\netcoreapp3.1\DatingApp-SPA.genruntimeconfig.cache
+C:\Users\conra\DatingApp\DatingApp-SPA\obj\Debug\netcoreapp3.1\DatingApp-SPA.csprojAssemblyReference.cache
